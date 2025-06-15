@@ -68,12 +68,6 @@ This project is the second part of a cloud-native **3-Tier AWS Architecture** de
 
 ---
 
-## 📸 Architecture Diagram
-
-![Tier-2 Application Layer]([2-Tier Layer.png])
-
----
-
 ## 📂 Project Structure
 
 terraform/
