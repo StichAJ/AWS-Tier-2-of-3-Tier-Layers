@@ -70,7 +70,7 @@ This project is the second part of a cloud-native **3-Tier AWS Architecture** de
 
 ## 📸 Architecture Diagram
 
-![Tier-2 Application Layer]([./path-to-your-diagram.png](https://github.com/StichAJ/AWS-Tier-2-of-3-Tier-Layers/commit/41af719b8a78c3c71c75bf9cd2770015052c0d73))
+![Tier-2 Application Layer]([2-Tier Layer.png])
 
 ---
 
