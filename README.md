@@ -76,7 +76,18 @@ This project is the second part of a cloud-native **3-Tier AWS Architecture** de
 
 ## 📂 Project Structure
 
-
+terraform/
+│
+├── modules/
+│ ├── ecs/
+│ ├── lambda/
+│ ├── rds/
+│ └── ...
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+└── README.md
 ---
 
 ## 🔗 Related Layers
